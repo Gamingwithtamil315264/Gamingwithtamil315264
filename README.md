@@ -37,6 +37,6 @@ PYHON
 Feel free to reach out if you want to connect, collaborate, or just chat about technology:
 
 - **Email**: manot6114@gmail.com
-- **GitHub**: (https://github.com/Gamingwithtamil315264)
-- **LinkedIn**: ([https://www.linkedin.com/in/samruddhi-patil](https://www.linkedin.com/in/manosakthi-thiyagarajan-5141a51b4)
-- **LeetCode**:([https://leetcode.com/u/manot6114/)
+- **GitHub**: https://github.com/Gamingwithtamil315264
+- **LinkedIn**: https://www.linkedin.com/in/manosakthi-thiyagarajan-5141a51b4
+- **LeetCode**:https://leetcode.com/u/manot6114/
